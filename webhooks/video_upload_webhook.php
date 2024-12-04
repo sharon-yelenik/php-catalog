@@ -1,8 +1,8 @@
 <?php
 // Set headers to prevent caching
-header('Cache-Control: no-cache, must-revalidate');
-header('Pragma: no-cache'); // For HTTP/1.0 compatibility
-header('Expires: 0'); // Ensures no caching
+header('Content-Type: text/event-stream');
+header('Cache-Control: no-cache');
+header('Connection: keep-alive');
 
 // Start output buffering
 ob_start();
@@ -51,15 +51,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 $stmt = $pdo->prepare($sql);
                 $stmt->execute([$product_video_url, $video_public_id, $video_moderation_status, $rejection_reason, $product_id]);
                 
-                // Notify SSE endpoint
-                file_put_contents('updates.log', json_encode([
-                    'product_id' => $productId,
-                    'video_public_id' => $videoPublicId,
-                    'status' => $moderationStatus,
-                    'timestamp' => time(),
-                ]) . PHP_EOL, FILE_APPEND);
-                
                 echo "Product with ID $product_id successfully updated.";
+                file_put_contents('upload_status.json', json_encode(['status' => 'completed']));
+                http_response_code(200);
             } else {
                 echo "No matching record found for video_public_id_temp = $video_public_id.";
             }

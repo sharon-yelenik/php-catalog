@@ -158,6 +158,22 @@ if (!$products) {
     <?php endforeach; ?>
 
 </div>
-
+<script>
+    // Wait until the page is fully loaded before starting the polling
+    window.onload = function() {
+        setInterval(() => {
+            fetch('/../webhooks/upload_status.json')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.status === 'completed') {
+                        fetch('clear_upload_status.php')
+                            .then(() => {
+                                // Refresh the page when the status is completed
+                                location.reload(); 
+                            });                    }
+                });
+        }, 3000); // Check every 3 seconds
+    }
+</script>
 </body>
 </html>
