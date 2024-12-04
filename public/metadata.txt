@@ -1,0 +1,84 @@
+Metadata:
+{
+    "asset_id": "6abbc3e956e66a362f1ea04d4974588e",
+    "public_id": "shtr1qrk00xqctfpvao4",
+    "format": "jpg",
+    "version": 1733321991,
+    "resource_type": "image",
+    "type": "upload",
+    "created_at": "2024-12-04T14:19:51Z",
+    "bytes": 2983544,
+    "width": 4608,
+    "height": 3072,
+    "backup": true,
+    "asset_folder": "",
+    "display_name": "shtr1qrk00xqctfpvao4",
+    "access_mode": "public",
+    "url": "http:\/\/res.cloudinary.com\/yelenik\/image\/upload\/v1733321991\/shtr1qrk00xqctfpvao4.jpg",
+    "secure_url": "https:\/\/res.cloudinary.com\/yelenik\/image\/upload\/v1733321991\/shtr1qrk00xqctfpvao4.jpg",
+    "metadata": {
+        "category": "clothes",
+        "cvqxugszx6iz5xqaqfld": [
+            "0001",
+            "hhciunfxmvmkq77bomzy",
+            "te8tmqzcb3demdodowcs"
+        ],
+        "hj1umnjspfqpm3vm7pgy": [
+            "siwh0ybroy3bnsmiksuf"
+        ],
+        "price": 352,
+        "rckbnmq2hdrhkpx8q8mr": [
+            "gxkeslnor1wj8hyux5cr"
+        ],
+        "sku": "352"
+    },
+    "info": {
+        "visual_search": {
+            "clip": {
+                "status": "complete",
+                "data": "1qL6HAAloCJqK3WlOSmCKHwh6qXQIPqkliyhphel05OyKUMoyiTHnrEpNhHWpXmsCqN8KV8o95yBJ0ipaKa5oNekmicWrnooxJySHpQqtK+vHPgkN6jkpZYlhy1wKxYnwaZYqf4QryDIJtKpgCLPqNqoeSnfJEyp7KDxJrydMBxwlGSnTxpHKFAmDShwpIwi4CDtKQIodCTZpEmaiaYzG74epKhRpX+oK4+BpKkuQKdYJAemfCQxJxW5\/ylCqUMjUqQ9qJGs0SEmotcpliQqoUklVqyUMPaQwaSbKZAlyawQpGSnop\/bJXMgUihgJ0OqDRSRIkymTZp9KKCgBKMTpHmjqB8DJTCT1KTSLakj\/6RZoGeaM6EEoCGZDSsWImuk+qDZHdSq0SjJJbQdKaUOqC+ioyLPH2mfSSPiIlgpsiSsqiWjVCWwJi6jmx3lLqAkIqYcpJahoaa8pQoaEyEWJBEiwygQqsanhR5GqIen1SEcqJ0jKaJap3+lIpzbHLYmSCFvJfoizR97nTeqmineJ0ykcCnZJH0qzKhqpDEoJaWpKK4nBymaJhugOSivHsCjZpNEnBYqTyScqWQqbiByI3StgKQGp7WnhCRvHcIe+yFvmZokBKNqplyqSaJ3pVypQiX3H0kfiRSxlEMgaSRcKqOmZ6AQp2UduSVkoV4kxqF5mL2pszA6LLCo05ehnpCsSSQOJg0euybEHomk76T4JQWhkiSpIksfbSKDIH8Z4iOvFnuljqyuHdeijg4cqawpdyUMpYqgVyn0okIc3xs6JFImPqLTHHCkxaZgK2ejyCUYJXksnaZqKDEkcCOCJMWo0S2XJFsnVyklJ4gd6pQFLewo7qsIoumYvKqEKeamHiWmI7EhcaJQmSUnQ6Q\/oVYorRJNJuil0ilEKM6cUihAJM0fYR4\/KXOoJB8vqiioiCe8nDwnEJ4oK0iotBh5I3+mKicVKAimBqWjsecp2yVWsP2oZhiylY8q46ThpJ4SxiBYMcQoEKppneumn6Vjp5iiGaO3J04nMZDho6CoyqtvpEoiC6AMowskfimHoReqUSUWIjck+SzipIegBqXNqTeoeSR+oNysuSamowkheRuNpyUkUalSp0mmb6g3qiUoIqAzq6knOqoWokGoGJ1aoZwf5iwHop2gFKg\/qcwoEicAJcYnXCW0qGGagCJDnzkfDaRGoIcfWhVrnc2ng6oPmwYtaKhhpO4o5SinqBWhniTBq5EfhalaLUEmbafPIOkll6e\/llGgFihnlR+lIhoWnAekraIqnzeahJk3KMqJ\/KWNJ98nFKJsnzEoFanhqaUr955GH7uhi5+AKoSkT6hpIyEbHKeeIvmh35Z3JM0oRaBjKA=="
+            }
+        },
+        "detection": {
+            "captioning": {
+                "status": "complete",
+                "data": {
+                    "caption": "Two smiling young women with long dark hair are embracing each other in front of a background of lush green foliage."
+                },
+                "schema_version": 1,
+                "model_version": 4
+            }
+        }
+    },
+    "next_cursor": "0d197523ad8f0bda65bfbe09128d21d3aaa0c52ec8742b1c0bd6e93a8cd0379d",
+    "derived": [
+        {
+            "transformation": "c_auto,g_auto,h_250,w_250\/l_cloudinary_logo\/c_scale,w_50\/fl_layer_apply,g_north_east,x_10,y_10\/",
+            "format": "jpg",
+            "bytes": 9883,
+            "id": "ce48ba6dc3d684864ff18d3e16770f1c",
+            "url": "http:\/\/res.cloudinary.com\/yelenik\/image\/upload\/c_auto,g_auto,h_250,w_250\/l_cloudinary_logo\/c_scale,w_50\/fl_layer_apply,g_north_east,x_10,y_10\/v1733321991\/shtr1qrk00xqctfpvao4",
+            "secure_url": "https:\/\/res.cloudinary.com\/yelenik\/image\/upload\/c_auto,g_auto,h_250,w_250\/l_cloudinary_logo\/c_scale,w_50\/fl_layer_apply,g_north_east,x_10,y_10\/v1733321991\/shtr1qrk00xqctfpvao4",
+            "extension": ""
+        },
+        {
+            "transformation": "c_crop,g_auto,h_250,w_250\/l_cloudinary_logo\/c_scale,w_50\/fl_layer_apply,g_north_east,x_10,y_10\/",
+            "format": "jpg",
+            "bytes": 4966,
+            "id": "b71dc221db40a4fb38ac86aa869a2916",
+            "url": "http:\/\/res.cloudinary.com\/yelenik\/image\/upload\/c_crop,g_auto,h_250,w_250\/l_cloudinary_logo\/c_scale,w_50\/fl_layer_apply,g_north_east,x_10,y_10\/v1733321991\/shtr1qrk00xqctfpvao4",
+            "secure_url": "https:\/\/res.cloudinary.com\/yelenik\/image\/upload\/c_crop,g_auto,h_250,w_250\/l_cloudinary_logo\/c_scale,w_50\/fl_layer_apply,g_north_east,x_10,y_10\/v1733321991\/shtr1qrk00xqctfpvao4",
+            "extension": ""
+        },
+        {
+            "transformation": "c_fill,g_auto,h_250,w_250\/l_cloudinary_logo\/c_scale,w_50\/fl_layer_apply,g_north_east,x_10,y_10\/",
+            "format": "jpg",
+            "bytes": 9923,
+            "id": "1aa0cee5e7d25035ce37490adb94dc70",
+            "url": "http:\/\/res.cloudinary.com\/yelenik\/image\/upload\/c_fill,g_auto,h_250,w_250\/l_cloudinary_logo\/c_scale,w_50\/fl_layer_apply,g_north_east,x_10,y_10\/v1733321991\/shtr1qrk00xqctfpvao4",
+            "secure_url": "https:\/\/res.cloudinary.com\/yelenik\/image\/upload\/c_fill,g_auto,h_250,w_250\/l_cloudinary_logo\/c_scale,w_50\/fl_layer_apply,g_north_east,x_10,y_10\/v1733321991\/shtr1qrk00xqctfpvao4",
+            "extension": ""
+        }
+    ]
+}
+
